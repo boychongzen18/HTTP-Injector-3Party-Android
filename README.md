@@ -14,11 +14,10 @@
 # Tampilan Psiphon Pro Unlimited Version 224
 ![be](https://raw.githubusercontent.com/boychongzen18/Saweran-SupportGameOnline/master/popon.jpg)
 
-# Tampilan Qpyton 
-
+# Tampilan Qpython
 ![be](![be](https://raw.githubusercontent.com/boychongzen18/Saweran-SupportGameOnline/master/uler.jpg)
-# Tampilan HTTP Injector
 
+# Tampilan HTTP Injector
 ![be](![be](https://raw.githubusercontent.com/boychongzen18/Saweran-SupportGameOnline/master/http.jpg)
 
 # Tampilan Mobile Legends ( ML )
